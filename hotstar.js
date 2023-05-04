@@ -1,9 +1,9 @@
 const movies=[  
-{ name:"falcon and the winter soldier",      des:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis suscipit a assumenda nostrum placeat tempora,hic non quam odit nam veritatis sapiente nemo laudantium? Nam enim quidem nisi animi vel!",      image:"images/slider 2.png"  },
-{ name:"loki",      des:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis suscipit a assumenda nostrum placeat tempora,hic non quam odit nam veritatis sapiente nemo laudantium? Nam enim quidem nisi animi vel!",      image:"images/slider 1.png"  }, 
-{ name:"wanda vision",      des:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis suscipit a assumenda nostrum placeat tempora,hic non quam odit nam veritatis sapiente nemo laudantium? Nam enim quidem nisi animi vel!",      image:"images/slider 3.png"  },  
-{ name:"raya and the last dragon",      des:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis suscipit a assumenda nostrum placeat tempora,hic non quam odit nam veritatis sapiente nemo laudantium? Nam enim quidem nisi animi vel!",      image:"images/slider 4.png"  },  
-{ name:"luca",      des:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis suscipit a assumenda nostrum placeat tempora,hic non quam odit nam veritatis sapiente nemo laudantium? Nam enim quidem nisi animi vel!",      image:"images/slider 5.png"  }];
+{ name:"falcon and the winter soldier",      des:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis suscipit a assumenda nostrum placeat tempora,hic non quam odit nam veritatis sapiente nemo laudantium? Nam enim quidem nisi animi vel!",      image:"./images/slider 2.png"  },
+{ name:"loki",      des:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis suscipit a assumenda nostrum placeat tempora,hic non quam odit nam veritatis sapiente nemo laudantium? Nam enim quidem nisi animi vel!",      image:"./images/slider 1.png"  }, 
+{ name:"wanda vision",      des:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis suscipit a assumenda nostrum placeat tempora,hic non quam odit nam veritatis sapiente nemo laudantium? Nam enim quidem nisi animi vel!",      image:"./images/slider 3.png"  },  
+{ name:"raya and the last dragon",      des:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis suscipit a assumenda nostrum placeat tempora,hic non quam odit nam veritatis sapiente nemo laudantium? Nam enim quidem nisi animi vel!",      image:"./images/slider 4.png"  },  
+{ name:"luca",      des:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis suscipit a assumenda nostrum placeat tempora,hic non quam odit nam veritatis sapiente nemo laudantium? Nam enim quidem nisi animi vel!",      image:"./images/slider 5.png"  }];
 
 const carousel = document.querySelector('.carousel');
 let sliders = [];
