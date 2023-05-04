@@ -32,6 +32,7 @@ const createSlide = () => {
 
   //setting up images
   imgElement.src = movies[slideIndex].image;
+  console.log(imgElement.src);
   slideIndex++;
 
   //setting elements classnames
